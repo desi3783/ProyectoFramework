@@ -1,0 +1,55 @@
+.container{
+background-image: url("../img/fondolmusical.jpg"); /*Para colocar de fondo completo una imagen guardada en css*/
+background-repeat: no-repeat;/*que la imagen no salga repetida sino una sola vez de todo el tamaño*/
+background-size: 100% 100%;/*abarca todo el espacio de la clase*/
+}
+/*clase del tamaño que contiene la img de logo*/
+.encabezado{
+  background: #B40431;
+  margin-bottom: 1rem;
+  height: 100px;
+}
+/*clase declarada para el tamaño del logo en el nav*/
+.logo-img{
+  width: 90px;
+  margin-top: 0.5rem;
+  margin-right: 0.5rem;
+}
+/*clase para tamaño de icono de redes sociales*/
+.redes{
+  width: 20px;
+  margin-top: 3.75rem;
+}
+.coment{
+  width: 20%;
+}
+.marginleft{
+  margin-left:.25rem;
+}
+/*clase para contenedor ppal*/
+.container-fluid{
+  margin-top:10px;
+}
+.img-salud{
+  width: 85%;
+  margin-top: 1rem;
+}
+.cont1{
+background-image: linear-gradient(rgba(248,245,16,0.90), rgba(248,27,16,0.90));
+margin-top: 1rem;
+color:black;
+}
+.cont2{
+background:rgba(24,21,22,0.50);
+margin-top: 1rem;
+}
+.img-comen{
+  width: 20%;;
+}
+.margin{
+  margin-top: .5rem;
+}
+.music-img{
+  width: 150px;
+  margin-top: 1rem;
+}

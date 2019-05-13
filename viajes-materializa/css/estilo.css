@@ -1,0 +1,30 @@
+.rest{
+background-image: url("../img/ven.jpg"); /*Para colocar de fondo completo una imagen guardada en css*/
+background-repeat: no-repeat;/*que la imagen no salga repetida sino una sola vez de todo el tamaño*/
+background-size: 100% 100%;/*abarca todo el espacio de la clase*/
+}
+.fond{  /*fondo blanco transparente*/
+  background:rgba(244,244,244,0.30);
+  color: white;
+}
+.fond2{   /*fondo negro transparente*/
+  background:rgba(10,9,9,0.50);
+  color: white;
+}
+.marg{
+  width:80px;
+}
+.redes{
+  width: 30px;
+}
+.top{
+  margin-top: 1.25rem;
+}
+.adapt{
+  width: 100%;
+  min-height: 180px;
+}
+.adapt2{
+  width: 30%;
+  min-height: 180px;
+}

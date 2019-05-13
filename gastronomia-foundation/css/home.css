@@ -1,0 +1,37 @@
+.rest{
+background-image: url("../img/rest.jpg"); /*Para colocar de fondo completo una imagen guardada en css*/
+background-repeat: no-repeat;/*que la imagen no salga repetida sino una sola vez de todo el tamaño*/
+background-size: 100% 100%;/*abarca todo el espacio de la clase*/
+}
+.logo-img{
+  width: 30%;
+}
+img{
+  max-height: 129px;
+}
+.fond{
+  background:rgba(63,63,191,0.60);
+  color: white;
+}
+.fond2{
+  background:rgba(207,32,64,0.60);
+  color: white;
+}
+.fond3{
+  background:rgba(24,21,22,0.85);
+  color: white;
+}
+.fond4{
+  background:rgba(24,21,22,0.50);
+  color: white;
+}
+.margin{
+  margin-top: 1rem;
+}
+.imgf{
+  width: 30%;
+  padding: .25rem;
+}
+.callout{
+  border-radius: 25px;
+}
